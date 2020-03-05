@@ -1,0 +1,2 @@
+# begin-ssg
+Begin app
