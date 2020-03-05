@@ -9,4 +9,4 @@ title: cool site!
 - bullet
 - list
 
-Will a [link](/about/) work?
+Will a [link](/about) work?
