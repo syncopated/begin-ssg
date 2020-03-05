@@ -5,6 +5,8 @@ title: cool site!
 
 # hi from markdown
 
-- cool 
+- cool
 - bullet
 - list
+
+Will a [link](/about/) work?
